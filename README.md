@@ -121,18 +121,18 @@ RegisterNumber:
 ### RTL LOGIC FOR FLIPFLOPS 
 
 
-
-
-
-
-
-
+![SR](https://user-images.githubusercontent.com/121957896/212547132-875a33e1-4a25-4228-8abf-14b6250a85df.jpg)
+![D ](https://user-images.githubusercontent.com/121957896/212547139-e37ad000-99bb-410d-aade-377343cbdb9b.jpg)
+![JK](https://user-images.githubusercontent.com/121957896/212547255-8223285b-374d-4b37-afcf-f5b5e8d8dc1c.jpg)
+![T](https://user-images.githubusercontent.com/121957896/212547265-2b53d548-a1fe-44fa-b71f-1d06bb9c1027.jpg)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
 
-
-
+![SR td](https://user-images.githubusercontent.com/121957896/212547296-7475cc2a-fbba-49cb-88b6-3818abdd1f94.jpg)
+![D td](https://user-images.githubusercontent.com/121957896/212547384-9e346d18-7881-463f-92d4-edf952108dff.jpg)
+![JK td](https://user-images.githubusercontent.com/121957896/212547415-424ba60f-7052-4e11-80a1-6ef03af9dfeb.jpg)
+![T td](https://user-images.githubusercontent.com/121957896/212547429-e830d446-1939-4af0-b05d-4c22b15497db.jpg)
 
 
 
